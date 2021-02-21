@@ -20,7 +20,7 @@ text_skin: orange # "default" (default), "dark", "forest", "ocean", "chocolate",
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : JATIN MAYEKAR
+title   : JATIN MAYEKAR 1
 description: > # this means to ignore newlines until "Language & timezone"
   This webiste is created to showcase Jatin's projects, basically like an online job portfolio. Moreover, Jatin will also be sharing his knowledeg in robotics
   and, some tricks and tools of the trade in the form of blogs. You are all welcome to contact him regadring informaion on any projects or if you are looking 
