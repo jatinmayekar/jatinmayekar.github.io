@@ -6,7 +6,7 @@ article_header:
   image:
     src: /pic_1.jpg
 header:
-  theme: dark
+  theme: light
 
 ---
 
