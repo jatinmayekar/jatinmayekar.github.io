@@ -4,7 +4,7 @@ tags: TeXt
 article_header:
   type: cover
   image:
-    src: /screenshot.jpg
+    src: /pic_1.jpg
 header:
   theme: dark
 
