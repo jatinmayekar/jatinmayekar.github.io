@@ -203,8 +203,10 @@ exclude:
   - /test
   - /vendor
 
-collections_dir: docs
+collections_dir: jatinmayekar.github.io
 collections:
+  docs:
+    output: true
   sample_page:
     output: true
 
@@ -230,3 +232,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+
+data_dir: /docs/_data
