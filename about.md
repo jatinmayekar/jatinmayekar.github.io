@@ -1,11 +1,11 @@
 ---
 layout: articles
 title: Projects
-permalink: /articles/item-cover-excerpt-readmore.html
+permalink: /about.html
 key: page-about
 cover: /docs/assets/images/axure/articles-item-cover-excerpt-readmore.jpg
 articles:
-  data_source: site.sample_page
+  data_source: site.sample_page_1
   show_excerpt: true
   show_readmore: true
 
