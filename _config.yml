@@ -203,6 +203,10 @@ exclude:
   - /test
   - /vendor
 
+collections:
+  sample_page:
+    output: true
+
 defaults:
   - scope:
       path: ""
