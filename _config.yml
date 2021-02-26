@@ -205,7 +205,7 @@ exclude:
 
 collections_dir: jatinmayekar.github.io
 collections:
-  sample_page:
+  sample_page_1:
     output: true
 
 defaults:
