@@ -3,9 +3,9 @@
 {%- elsif include.theme == 'light' -%}
   <header class="header header--light" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
 {%- else -%}
-  <header class="header" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
+  <header class="header" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%} id="myheader">
 {%- endif -%}
-    <div class="main" id="myheader">
+    <div class="main">
       <div class="header__title">
         <div class="header__brand">
           <!--
