@@ -8,6 +8,7 @@ articles:
   data_source: site.sample_page
   show_excerpt: true
   show_readmore: true
+
 ---
 
 <div class="article__content" markdown="1">
