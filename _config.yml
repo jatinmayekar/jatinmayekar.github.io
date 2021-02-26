@@ -231,4 +231,4 @@ plugins:
   - jekyll-sitemap
   - jemoji
 
-data_dir: /docs/_data
+data_dir: /_data
