@@ -203,6 +203,7 @@ exclude:
   - /test
   - /vendor
 
+collections_dir: docs
 collections:
   sample_page:
     output: true
