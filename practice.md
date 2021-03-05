@@ -1,21 +1,22 @@
 ---
 layout: articles
-title: Projects
+title: Articles - Item (Cover + Excerpt + Read More + Info)
+#permalink: /articles/item-cover-excerpt-readmore-info.html
 permalink: /practice.html
-key: page-about
-cover: /docs/assets/images/axure/articles-item-cover-excerpt-readmore.jpg
+key: articles-item-cover-excerpt-readmore-info
+cover: /docs/assets/images/axure/articles-item-cover-excerpt-readmore-info.jpg
 articles:
-  data_source: site.sample_page_1
+  data_source: site.sample_page
   show_excerpt: true
   show_readmore: true
-
+  show_info: true
 ---
 
 <div class="article__content" markdown="1">
 
 ---
 
-Article list with cover, excerpt and read more link.
+Article list with cover, excerpt, read more link and info.
 
 <!--more-->
 
@@ -23,11 +24,12 @@ Article list with cover, excerpt and read more link.
 
     ---
     layout: articles
-    title: Articles - Item (Cover + Excerpt + Read More)
+    title: Articles - Item (Cover + Excerpt + Read More + Info)
     articles:
       data_source: site.sample_page
       show_excerpt: true
       show_readmore: true
+      show_info: true
     ---
 
 </div>

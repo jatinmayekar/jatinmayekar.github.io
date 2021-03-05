@@ -203,9 +203,15 @@ exclude:
   - /test
   - /vendor
 
-collections_dir: jatinmayekar.github.io
+collections_dir: docs
 collections:
-  sample_page_1:
+  docs:
+    output: true
+  sample_page:
+    output: true
+  sample_articles:
+    output: true
+  sample_languages:
     output: true
 
 defaults:
@@ -218,10 +224,42 @@ defaults:
       license: true
       aside:
         toc: true
-      show_edit_on_github: true
+      show_edit_on_github: false
       show_subscribe: true
       pageview: true
-
+  ## samples
+  - scope:
+      path: ""
+      type: sample_page
+    values:
+      nav_key: samples
+  - scope:
+      path: ""
+      type: sample_articles
+    values:
+      nav_key: samples
+      show_date: false
+  - scope:
+      path: ""
+      type: sample_languages
+    values:
+      layout: article
+      nav_key: samples
+      show_date: false
+  ## docs
+  - scope:
+      path: "_docs/en"
+    values:
+      layout: article
+      nav_key: docs
+      sidebar:
+        nav: docs-en
+      license: true
+      aside:
+        toc: true
+      show_edit_on_github: false
+      show_date: false
+      # lightbox: true
 
 ## => Plugins
 ##############################
@@ -231,4 +269,4 @@ plugins:
   - jekyll-sitemap
   - jemoji
 
-data_dir: /_data
+data_dir: /docs/_data
