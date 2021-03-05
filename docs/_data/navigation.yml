@@ -5,7 +5,7 @@ header:
     url:        /docs/en/quick-start
     key:        docs
   - title:      Samples
-    url:        /samples.html
+    url:        /practice.html
     key:        samples
   - title:      Archive
     url:        /archive.html
