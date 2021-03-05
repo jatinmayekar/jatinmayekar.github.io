@@ -1,6 +1,7 @@
 ---
 layout: articles
     title: Articles - Item (Cover + Excerpt + Read More)
+    permalink: /test.html
     articles:
       data_source: site.sample_page
       show_excerpt: true
