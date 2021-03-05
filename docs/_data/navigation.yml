@@ -1,18 +1,18 @@
 header:
-  - title:      Home
-    url:        /test/
-  - title:      Docs
-    url:        /docs/en/quick-start
-    key:        docs
-  - title:      Samples
-    url:        /practice.html
+#  - title:      Home
+#    url:        /test/
+#  - title:      Docs
+#    url:        /docs/en/quick-start
+#    key:        docs
+  - title:      Projects
+    url:        /projects.html
     key:        samples
-  - title:      Archive
-    url:        /archive.html
-  - title:      About
-    url:        /about.html
-  - title:      GitHub
-    url:        https://github.com/kitian616/jekyll-TeXt-theme
+  - title:      Blog
+    url:        /blog.html
+#  - title:      About
+#    url:        /about.html
+#  - title:      GitHub
+#    url:        https://github.com/kitian616/jekyll-TeXt-theme
 
 
 docs-en:

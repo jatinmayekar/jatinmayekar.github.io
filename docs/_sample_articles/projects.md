@@ -1,8 +1,8 @@
 ---
 layout: articles
-title: Articles - Item (Cover + Excerpt + Read More + Info)
+title: Projects
 #permalink: /articles/item-cover-excerpt-readmore-info.html
-permalink: /practice.html
+permalink: /projects.html
 key: articles-item-cover-excerpt-readmore-info
 cover: /docs/assets/images/axure/articles-item-cover-excerpt-readmore-info.jpg
 articles:
