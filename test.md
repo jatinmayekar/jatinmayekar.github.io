@@ -1,11 +1,13 @@
 ---
 layout: articles
-    title: Articles - Item (Cover + Excerpt + Read More)
-    permalink: /test.html
-    articles:
-      data_source: site.sample_page
-      show_excerpt: true
-      show_readmore: true
+title: Projects
+permalink: /about.html
+key: page-about
+cover: /docs/assets/images/axure/articles-item-cover-excerpt-readmore.jpg
+articles:
+  data_source: site.sample_page_1
+  show_excerpt: true
+  show_readmore: true
 
 ---
 
@@ -17,5 +19,15 @@ Article list with cover, excerpt and read more link.
 
 <!--more-->
 
+**front matter:**
+
+    ---
+    layout: articles
+    title: Articles - Item (Cover + Excerpt + Read More)
+    articles:
+      data_source: site.sample_page
+      show_excerpt: true
+      show_readmore: true
+    ---
 
 </div>
