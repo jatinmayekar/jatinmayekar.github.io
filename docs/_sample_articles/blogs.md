@@ -2,7 +2,7 @@
 layout: articles
 title: Projects
 #permalink: /articles/item-cover-excerpt-readmore-info.html
-permalink: /blog.html
+permalink: /blogs.html
 key: articles-item-cover-excerpt-readmore-info
 cover: /docs/assets/images/axure/articles-item-cover-excerpt-readmore-info.jpg
 articles:
