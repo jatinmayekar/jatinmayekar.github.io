@@ -1,7 +1,7 @@
 ---
 layout: articles
 title: Projects
-permalink: /about.html
+permalink: /test.html
 key: page-about
 cover: /docs/assets/images/axure/articles-item-cover-excerpt-readmore.jpg
 articles:
