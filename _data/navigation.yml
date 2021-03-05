@@ -24,6 +24,7 @@ header:
       # @end locale config
     url: /archive.html
 
+
   - titles:
       # @start locale config
       en      : &EN       Projects
@@ -49,7 +50,8 @@ header:
       # @end locale config
     url: /about.html
 
-    - titles:
+
+  - titles:
       # @start locale config
       en      : &EN       Test
       en-GB   : *EN
