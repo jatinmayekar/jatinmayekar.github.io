@@ -1,6 +1,6 @@
 ---
 layout: articles
-title: Projects
+title: Test
 permalink: /test.html
 key: page-about
 cover: /docs/assets/images/axure/articles-item-cover-excerpt-readmore.jpg
