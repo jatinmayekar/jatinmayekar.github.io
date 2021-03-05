@@ -1,9 +1,8 @@
 header:
 #  - title:      Home
 #    url:        /test/
-#  - title:      Docs
-#    url:        /docs/en/quick-start
-#    key:        docs
+  - title:      About
+    url:        /about.html
   - title:      Projects
     url:        /projects.html
     key:        samples
