@@ -1,6 +1,6 @@
 ---
 layout: articles
-#title: Projects
+title:
 permalink: /about.html
 
 ---
@@ -21,6 +21,9 @@ Methods of Engineering Analysis, Neural Nets & Deep Learning, Master Thesis
 
 * Master's Thesis : Design, Fabrication, Hybrid Systems Modeling and Characterization of HASEL Wheel
 
+\
+\
+
 ### Bachelors in Mechanical Engineering
 
 * College :  K.J. Somaiya College of Engineering (K.J.S.C.E)
@@ -34,3 +37,6 @@ Industrial Electronics, Theory of Machines, Machine Design, Maths, Fluid Mechani
 * Grade :  3.47 / 4
 
 * CAPSTONE Project : Design and Fabrication of a Remotely Operated Underwater Vehicle(ROV)
+
+
+You can download my [resume]({{ site.url }}/assets/Jatin_Mayekar_Resume.pdf).
