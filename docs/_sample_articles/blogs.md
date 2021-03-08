@@ -1,12 +1,12 @@
 ---
 layout: articles
-title: Projects
+title: Blog
 #permalink: /articles/item-cover-excerpt-readmore-info.html
 permalink: /blogs.html
 key: articles-item-cover-excerpt-readmore-info
 cover: /docs/assets/images/axure/articles-item-cover-excerpt-readmore-info.jpg
 articles:
-  data_source: site.sample_page
+  data_source:
   show_excerpt: true
   show_readmore: true
   show_info: true
