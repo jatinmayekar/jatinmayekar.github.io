@@ -3,7 +3,6 @@ layout: articles
 title: Portfolio Presentation
 permalink: /portfolio.html
 articles:
-  data_source:
   show_excerpt: true
   show_readmore: true
   show_info: true
