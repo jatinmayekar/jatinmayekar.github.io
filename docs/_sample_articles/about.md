@@ -21,9 +21,6 @@ Methods of Engineering Analysis, Neural Nets & Deep Learning, Master Thesis
 
 * Master's Thesis : Design, Fabrication, Hybrid Systems Modeling and Characterization of HASEL Wheel
 
-\
-
-
 ### Bachelors in Mechanical Engineering
 
 * College :  K.J. Somaiya College of Engineering (K.J.S.C.E)

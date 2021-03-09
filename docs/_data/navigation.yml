@@ -1,15 +1,15 @@
 header:
 #  - title:      Home
 #    url:        /test/
-  - title:      About
+  - title:      Education
     url:        /about.html
   - title:      Projects
     url:        /projects.html
     key:        samples
   - title:      Blog
     url:        /blogs.html
-#  - title:      About
-#    url:        /about.html
+  - title:      Portfolio
+    url:        /portfolio.html
 #  - title:      GitHub
 #    url:        https://github.com/kitian616/jekyll-TeXt-theme
 
